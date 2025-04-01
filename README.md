@@ -74,8 +74,6 @@ The **Airbnb Data Analysis & Recommendation System** provides:
      - Price Prediction
      - Recommendations
 
----
-
 ## Features
 
 1. **Price Prediction**:
@@ -110,7 +108,6 @@ The **Airbnb Data Analysis & Recommendation System** provides:
    cd Air-BNB-analysis
    ```
 
-````
 
 2. **Install required packages**:
 
@@ -166,4 +163,3 @@ Contributions are welcome! If you would like to improve or add features:
 4. Submit a pull request.
 
 ---
-````
