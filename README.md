@@ -125,6 +125,7 @@ The **Airbnb Data Analysis & Recommendation System** provides:
 
 4. **Data Setup**:
 
+   - Please Extract the CSV files from the zip folders provided `raw_data` , `processed_data` , `data`
    - Place raw CSV files in the `raw_data` folder.
    - Run the data cleaning scripts (`clean_airbnb_data.py` and `prepare_data.py`) if you need to regenerate the processed data.
 
