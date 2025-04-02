@@ -141,7 +141,7 @@ The **Airbnb Data Analysis & Recommendation System** provides:
   ```bash
   streamlit run app.py
   ```
-  - Open the local URL that appears in the terminal (usually http://localhost:8000).
+  - Open the local URL that appears in the terminal (usually http://localhost:8501).
 
 ---
 
